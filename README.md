@@ -3,4 +3,4 @@ A Python-based image classification application using machine learning algorithm
 This project aims to make it easy for users to classify and organize their image collections.
 Contributions and feedback are welcome! 
 
-Feel free to adapt this based on the specifics of your project. 
+Feel free to adapt this based on the specifics of the project. 
